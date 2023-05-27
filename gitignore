@@ -1,1 +1,19 @@
+# Ignore system-specific files
 .DS_Store
+Thumbs.db
+
+# Ignore bundler config
+/.bundle/
+
+# Ignore Gemfile.lock
+Gemfile.lock
+
+# Ignore IDE files
+.idea/
+.vscode/
+
+# Ignore log files
+/log/
+
+# Ignore compiled code
+/bin/
