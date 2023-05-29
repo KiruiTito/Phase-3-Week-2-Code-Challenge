@@ -1,7 +1,4 @@
-
-require_relative 'author'
-require_relative 'magazine'
-require_relative 'article'
+require_relative 'environment'
 
 author1 = Author.new("")
 author2 = Author.new("")
